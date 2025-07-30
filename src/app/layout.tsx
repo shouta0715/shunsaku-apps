@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Shunsaku Template",
-  description: "A modern Next.js template with TypeScript and Tailwind CSS",
+  title: "パスワード ジェネレーター",
+  description: "セキュアで強力なパスワードを簡単に生成できるツールです。暗号学的に安全な乱数生成器を使用しています。",
 };
 
 type RootLayoutProps = {
